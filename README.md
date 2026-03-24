@@ -12,7 +12,7 @@ Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
 ## 🔗 Quick Links
 
 - 🌐 **[Project Showcase](https://raghav21malik.github.io/Containerization-and-DevOps-Lab)** - View the interactive project page
-- 📚 **[GitHub Repository](https://github.com/raghav21malik/Containerization-and-DevOps-Lab)** - Source code and documentation
+- 📚 **[GitHub Repository](https://github.com/RythamSingla/Containerisation-and-devops-LAB-EXPERIMENTS)** - Source code and documentation
 - 🐙 **[View on GitHub](https://github.com/RythamSingla)** - All projects by Rytham Singla
 
 ## 📖 Project Overview
