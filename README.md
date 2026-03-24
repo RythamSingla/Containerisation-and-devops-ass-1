@@ -284,7 +284,7 @@ Feel free to fork this repository and submit pull requests for improvements!
 
 ## 📧 Contact
 
-- **GitHub**: [@raghav21malik](https://github.com/raghav21malik)
+- **GitHub**: [@rythamsingla](https://github.com/RythamSingla)
 - **Email**: Contact via GitHub profile
 
 ## 📜 License
@@ -293,6 +293,6 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Made with ❤️ by Raghav Malik**
+**Made with ❤️ by Rytham Singla**
 
 *Last Updated: March 2026*
