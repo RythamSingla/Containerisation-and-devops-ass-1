@@ -4,8 +4,8 @@ Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
 
 ## 📋 Project Details
 
-- **Author**: Raghav Malik
-- **GitHub**: [@raghav21malik](https://github.com/raghav21malik)
+- **Author**: RYTHAM SINGLA
+- **GitHub**: [@rythamsingla](https://github.com/RythamSingla)
 - **Date**: March 2026
 - **Technologies**: Docker, Docker Compose, PostgreSQL, Node.js, Express.js, IPvlan Networking
 
